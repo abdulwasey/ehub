@@ -1,0 +1,41 @@
+{
+  "name": "gfghjk",
+  "version": "1.0.0",
+  "description": "Server side code for OSOS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^2.3.0",
+    "async": "^3.1.0",
+    "bcrypt": "^3.0.7",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.8.1",
+    "multer": "^1.4.2",
+    "multiparty": "^4.2.1",
+    "node-fetch": "^2.6.0",
+    "nodemailer": "^6.4.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^5.0.1",
+    "path": "^0.12.7",
+    "sharp": "^0.23.4"
+  }
+ 
+}
